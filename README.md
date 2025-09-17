@@ -37,3 +37,5 @@ The model is trained on a **balanced dataset** of 418 images per class and achie
 | Test         | **95.86%** | 0.4682 |
 
 ---
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sam74012/Disease_detection_model/blob/main/Disease_detection_model.ipynb)
